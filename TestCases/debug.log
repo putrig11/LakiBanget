@@ -1,0 +1,42 @@
+[0318/104612.218:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Putri\AppData\Local\Temp\scoped_dir420_1890237955\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0318/111357.074:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0318/111357.075:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0318/111357.450:ERROR:exception_snapshot_win.cc(98)] thread ID 22500 not found in process
+[0318/111357.482:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0318/111357.488:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0318/111357.592:ERROR:exception_snapshot_win.cc(98)] thread ID 4276 not found in process
+[0318/111357.592:ERROR:exception_snapshot_win.cc(98)] thread ID 18904 not found in process
+[0318/111358.081:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0318/111358.081:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0318/111358.081:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0318/111358.081:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0318/111358.081:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0318/111358.081:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0318/111358.081:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0318/111358.081:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0318/111358.081:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0318/111358.081:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0318/111358.082:ERROR:exception_snapshot_win.cc(98)] thread ID 25076 not found in process
+[0318/164258.587:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Putri\AppData\Local\Temp\scoped_dir1716_958904490\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0319/132209.641:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Putri\AppData\Local\Temp\scoped_dir14916_1156936230\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0319/132929.292:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0324/111450.001:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0324/111450.031:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0324/111450.031:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0324/111450.031:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0324/111450.031:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0324/111450.031:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0324/111450.031:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0324/111450.031:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0324/111450.031:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0324/111450.031:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0324/111450.031:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0324/111450.061:ERROR:exception_snapshot_win.cc(98)] thread ID 14396 not found in process
+[0329/123445.414:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Putri\AppData\Local\Temp\scoped_dir23424_70353904\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0401/095031.928:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Putri\AppData\Local\Temp\scoped_dir5940_850135858\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0406/115452.615:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Putri\AppData\Local\Temp\scoped_dir26296_196648673\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0406/154541.101:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Putri\AppData\Local\Temp\scoped_dir29480_805135120\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0406/165122.354:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Putri\AppData\Local\Temp\scoped_dir25628_1003025684\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0408/160301.205:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Putri\AppData\Local\Temp\scoped_dir34540_1854658962\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0408/195528.910:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0409/152533.969:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Putri\AppData\Local\Temp\scoped_dir32248_287660476\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
